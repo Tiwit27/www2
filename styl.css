@@ -1,9 +1,14 @@
 body{
     background-color: red;
 }
-p{
+img{
+    max-width: 100%;
+}
+div{
     border: solid;
-    width: 200px;
-    height: 200px;
+    width: 100%;
     background-color: aqua;
+}
+.kontener{
+    display: flex;
 }
