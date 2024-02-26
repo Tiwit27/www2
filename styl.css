@@ -7,7 +7,7 @@ img{
 div{
     border: solid;
     width: 100%;
-    background-color: aqua;
+    background-color: blue;
 }
 .kontener{
     display: flex;
